@@ -2,7 +2,7 @@ import wx
 
 TEXT = 'https://steamcommunity.com/profile/${steam64}'
 TIP0 = 'You can use following variables in format string:'
-TIP1 = '${userid}, ${name}, ${steam64}, ${steam2}, ${steam3}, ${connected}'
+TIP1 = '${userid}, ${name}, ${steam64}, ${steam2}, ${steam3}'
 TIP2 = 'They will be replaced by player\'s info.'
 TIP3 = 'Example: https://steamcommunity.com/profile/${steam64}'
 

@@ -86,7 +86,6 @@ class CustomColumn(Column):
         out = out.replace('${steam64}', str(player.steamid.as_64))
         out = out.replace('${steam2}', player.steamid.as_steam2)
         out = out.replace('${steam3}', player.steamid.as_steam3)
-        out = out.replace('${connected}', player.connected_str)
         return out
 
 
