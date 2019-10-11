@@ -1,7 +1,7 @@
 import re
 from typing import List
 
-from steam import SteamID
+from steamid import SteamID
 
 from utils import parse_time
 

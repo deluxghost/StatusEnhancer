@@ -10,7 +10,7 @@ import icon
 import option
 import player
 
-__version__ = '1.0.1'
+__version__ = '1.1.0'
 TIP0 = 'How to use:'
 TIP1 = '1. Execute "status" command in TF2 developer console,'
 TIP2 = '2. Copy the user list part,'
